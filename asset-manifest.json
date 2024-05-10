@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/preksha3005/Tic-Tac-Toe-Game.git/static/css/main.ecee8a62.css",
+    "main.js": "/preksha3005/Tic-Tac-Toe-Game.git/static/js/main.ffbbd974.js",
+    "index.html": "/preksha3005/Tic-Tac-Toe-Game.git/index.html",
+    "main.ecee8a62.css.map": "/preksha3005/Tic-Tac-Toe-Game.git/static/css/main.ecee8a62.css.map",
+    "main.ffbbd974.js.map": "/preksha3005/Tic-Tac-Toe-Game.git/static/js/main.ffbbd974.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ecee8a62.css",
+    "static/js/main.ffbbd974.js"
+  ]
+}
